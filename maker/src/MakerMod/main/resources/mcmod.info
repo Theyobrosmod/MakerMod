@@ -1,0 +1,16 @@
+[
+{
+  "modid": "makermod",
+  "name": "MakerMod",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Jaxson Yorke and Quinlan Yorke"],
+  "credits": "Jaxson Yorke and Quinlan Yorke",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
